@@ -5,8 +5,8 @@ C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.Domain\
 C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.Domain\obj\Debug\net8.0\Library.Domain.AssemblyInfoInputs.cache
 C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.Domain\obj\Debug\net8.0\Library.Domain.AssemblyInfo.cs
 C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.Domain\obj\Debug\net8.0\Library.Domain.csproj.CoreCompileInputs.cache
+C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.Domain\obj\Debug\net8.0\Library.Domain.sourcelink.json
 C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.Domain\obj\Debug\net8.0\Library.Domain.dll
 C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.Domain\obj\Debug\net8.0\refint\Library.Domain.dll
 C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.Domain\obj\Debug\net8.0\Library.Domain.pdb
 C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.Domain\obj\Debug\net8.0\ref\Library.Domain.dll
-C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.Domain\obj\Debug\net8.0\Library.Domain.sourcelink.json

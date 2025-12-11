@@ -10,5 +10,6 @@ namespace Library.Domain.Entities
         public DateTime CreatedAt { get; set; }
         public ICollection<Loans> Loans { get; set; } = new List<Loans>();
     }
+    
 }
 

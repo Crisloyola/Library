@@ -9,6 +9,7 @@ namespace Library.Domain.Entities
         public DateTime? ReturnDate { get; set; }
         public bool Status { get; set; } = false;
         public DateTime CreatedAt { get; set; }
+        public Books Book { get; set; } = null!;
     } 
 }
 

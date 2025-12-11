@@ -13,3 +13,4 @@ C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.Infrast
 C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.Infrastructure\obj\Debug\net8.0\refint\Library.Infrastructure.dll
 C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.Infrastructure\obj\Debug\net8.0\Library.Infrastructure.pdb
 C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.Infrastructure\obj\Debug\net8.0\ref\Library.Infrastructure.dll
+C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.Infrastructure\obj\Debug\net8.0\Library.Infrastructure.sourcelink.json

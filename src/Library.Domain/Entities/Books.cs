@@ -8,7 +8,6 @@ namespace Library.Domain.Entities
         public string ISBN { get; set; } = string.Empty;
         public int Stock { get; set; }
         public DateTime CreatedAt { get; set; }
-
         public ICollection<Loans> Loans { get; set; } = new List<Loans>();
     }
 }

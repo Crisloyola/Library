@@ -5,6 +5,7 @@ namespace Library.Domain.Ports.Out
     {
         Task<Books?> GetBookWithLoansAsync(int id);
         Task<IEnumerable<Books>> GetBooksByAuthorAsync(string author);
+        Task<IEnumerable<Books>> GetBooksByTitleAsync(string title);
         Task<Books?> SearchBookNameAsync();
     }
 }

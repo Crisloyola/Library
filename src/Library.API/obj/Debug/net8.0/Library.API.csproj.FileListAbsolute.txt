@@ -37,3 +37,5 @@ C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.API\obj
 C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.API\obj\Debug\net8.0\Library.API.genruntimeconfig.cache
 C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.API\obj\Debug\net8.0\ref\Library.API.dll
 C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.API\obj\Debug\net8.0\Library.API.sourcelink.json
+C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

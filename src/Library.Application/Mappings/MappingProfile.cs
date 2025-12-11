@@ -9,9 +9,12 @@ namespace Library.Application.Mappings
         public MappingProfile()
         {
             CreateMap<Books, BookDto>();
-            CreateMap<CreateBookDto, Books>();
+            CreateMap<CreateBookDto, Books>()
+                .ForMember(dest => dest.CreatedAt, opt => opt.MapFrom(src => DateTime.UtcNow));
+
             CreateMap<Loans, LoanDto>();
-            CreateMap<CreateLoanDto, Loans>();
+            CreateMap<CreateLoanDto, Loans>()
+                .ForMember(dest => dest.CreatedAt, opt => opt.MapFrom(src => DateTime.UtcNow));
         }
     }
 }

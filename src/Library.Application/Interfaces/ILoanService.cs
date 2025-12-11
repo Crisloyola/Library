@@ -11,7 +11,7 @@ namespace Library.Application.interfaces
         Task<IEnumerable<LoanDto>> GetAllLoansAsync();
         Task<LoanDto> UpdateLoanAsync(int id, CreateLoanDto updateLoanDto);
         Task<bool> DeleteLoanAsync(int id);
-        Task<LoanDto> SearchStudentNameAsync(string StudentName);
+        Task<LoanDto> SearchStudentNameAsync(string studentName);
     }
     
 }

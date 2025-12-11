@@ -7,7 +7,7 @@ namespace Library.Application.DTOs
         public string StudentName { get; set; } = string.Empty;
         public DateTime LoanDate { get; set; }
         public DateTime? ReturnDate { get; set; }
-        public bool status { get; set; } = false;
+        public bool Status { get; set; } = false;
         public DateTime CreatedAt { get; set; }
     }
 }

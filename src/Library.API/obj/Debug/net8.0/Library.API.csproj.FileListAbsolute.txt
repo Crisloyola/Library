@@ -50,3 +50,5 @@ C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.API\obj
 C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.API\obj\Debug\net8.0\Library.API.pdb
 C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.API\obj\Debug\net8.0\Library.API.genruntimeconfig.cache
 C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.API\obj\Debug\net8.0\ref\Library.API.dll
+C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.API\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\loyol\OneDrive\Escritorio\DSW1_T2_CRISTOPHER_LOYOLA\src\Library.API\bin\Debug\net8.0\Sprache.dll
